@@ -1,0 +1,2 @@
+﻿  test.cpp
+C:\Users\user\OneDrive\Desktop\(3-1)디지털영상처리실습\opencv\opencv\test.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'opencv2/opencv.hpp': No such file or directory

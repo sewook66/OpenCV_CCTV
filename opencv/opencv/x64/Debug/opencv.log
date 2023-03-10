@@ -1,0 +1,4 @@
+﻿  test.cpp
+test.obj : error LNK2019: "public: virtual bool __cdecl cv::VideoCapture::read(class cv::debug_build_guard::_OutputArray const &)" (?read@VideoCapture@cv@@UEAA_NAEBV_OutputArray@debug_build_guard@2@@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::debug_build_guard::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@debug_build_guard@1@@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\user\OneDrive\Desktop\(3-1)디지털영상처리실습\opencv\x64\Debug\opencv.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
